@@ -7,7 +7,7 @@
 [Тест-кейсы для тестирования APIxxx](https://docs.google.com/spreadsheets/d/1QG0lf8WM9mnF7CV09_HElmDv77VGCst-gLhFgD1g2SA/edit?usp=sharing)
 
 :white_check_mark: 
-[Postman коллекция на open API +названиеxxx](https://docs.google.com/spreadsheets/d/1QG0lf8WM9mnF7CV09_HElmDv77VGCst-gLhFgD1g2SA/edit?usp=sharing)
+[Postman коллекция на open API Restful-booker xxx](https://docs.google.com/spreadsheets/d/1QG0lf8WM9mnF7CV09_HElmDv77VGCst-gLhFgD1g2SA/edit?usp=sharing)
 
 :white_check_mark: 
 [Python автотестыxxx](https://docs.google.com/spreadsheets/d/1QG0lf8WM9mnF7CV09_HElmDv77VGCst-gLhFgD1g2SA/edit?usp=sharing)
