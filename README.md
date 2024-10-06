@@ -4,13 +4,13 @@
 [Чек-лист по форме обратной связи](https://docs.google.com/spreadsheets/d/1QG0lf8WM9mnF7CV09_HElmDv77VGCst-gLhFgD1g2SA/edit?usp=sharing)
 
 :white_check_mark: 
-[Тест-кейсы для тестирования API](https://docs.google.com/spreadsheets/d/1QG0lf8WM9mnF7CV09_HElmDv77VGCst-gLhFgD1g2SA/edit?usp=sharing)
+[Тест-кейсы для тестирования APIxxx](https://docs.google.com/spreadsheets/d/1QG0lf8WM9mnF7CV09_HElmDv77VGCst-gLhFgD1g2SA/edit?usp=sharing)
 
 :white_check_mark: 
-[Postman коллекция на open API +название](https://docs.google.com/spreadsheets/d/1QG0lf8WM9mnF7CV09_HElmDv77VGCst-gLhFgD1g2SA/edit?usp=sharing)
+[Postman коллекция на open API +названиеxxx](https://docs.google.com/spreadsheets/d/1QG0lf8WM9mnF7CV09_HElmDv77VGCst-gLhFgD1g2SA/edit?usp=sharing)
 
 :white_check_mark: 
-[Python автотесты](https://docs.google.com/spreadsheets/d/1QG0lf8WM9mnF7CV09_HElmDv77VGCst-gLhFgD1g2SA/edit?usp=sharing)
+[Python автотестыxxx](https://docs.google.com/spreadsheets/d/1QG0lf8WM9mnF7CV09_HElmDv77VGCst-gLhFgD1g2SA/edit?usp=sharing)
 
 
 
