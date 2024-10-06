@@ -5,7 +5,7 @@
 
 :white_check_mark: 
 [Тест-кейсы для тестирования API](https://docs.google.com/spreadsheets/d/1mA3s6ae2FhzkQPbw3udN25MlUTurFGqLeMemdiuKFWM/edit?usp=sharing)
-
+<!--
 :white_check_mark: 
 [Postman коллекция на open API Restful-booker xxx](https://docs.google.com/spreadsheets/d/1QG0lf8WM9mnF7CV09_HElmDv77VGCst-gLhFgD1g2SA/edit?usp=sharing)
 
